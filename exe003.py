@@ -1,0 +1,10 @@
+print('-=-' * 20)
+print('Simple sum calculator')
+print('-=-' * 20)
+n1 = float(input('Write the first number: '))
+print('-=-' * 20)
+n2 = float(input('Write the second number: '))
+print('-=-' * 20)
+s = n1 + n2
+print(f'The result of {n1} plus {n2} its {s}')
+print('-=-' * 20)
